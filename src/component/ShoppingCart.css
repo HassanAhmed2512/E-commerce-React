@@ -1,0 +1,49 @@
+.shop{
+  color: blue;
+  text-align: center;
+  font-weight: bolder;
+}
+.check{
+  color: white;
+  width: 100%;
+  background-color: blue;
+  margin-left:0px ;
+}
+.av{
+  position: relative;
+  top: 6px;
+  left: 15px;
+  color: darkcyan;
+  margin-top: 5px;
+}
+
+.parent{
+  background-color: white;
+  width: 82%;
+  opacity: 2;
+  position: relative;
+  margin: auto;
+  height: 50%;
+  /* border-radius: 100px; */
+}
+.ahmed{
+  background-color: #e5e5e5;
+  height: 100%;
+  width: 100%;
+  resize: horizontal;
+  
+}
+.c{
+  position: relative;
+  top: -29px;
+} 
+.hhh{
+  position: relative;
+  top: -52px;
+  left: 11%;
+  color: blue;
+  font-weight: 30;
+}
+
+
+  
