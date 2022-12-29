@@ -1,0 +1,10 @@
+.product-flex {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 11px;
+    width: 100%;
+}
+
+.product-flex div {
+    margin: 11px 11px 11px 11px;
+}
