@@ -1,0 +1,38 @@
+.add{
+    position: relative;
+    /* background-color: rgb(180, 170, 170); */
+      background-color: whitesmoke;
+    color: blue;
+    width: 600px;
+    height: 201px;
+    /* display: grid;
+    grid-template-rows: 13px 138px;
+    grid-template-columns: 100px 50px; */
+  
+  }
+  .cd{
+    margin-left:600px;
+  }
+ 
+ 
+  .d{
+    position: relative;
+    top: -127px;
+    left:1800px;
+  }
+  
+  .Delete{
+    position: relative;
+    top: -97px;
+    left:1000px;
+  }
+  .ad{
+    background-color: blue;
+    color: blue;
+  }
+  .substract{
+    background-color: blue;
+    color: blue;
+  }
+  
+  
